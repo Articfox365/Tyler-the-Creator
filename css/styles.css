@@ -1,0 +1,26 @@
+body{
+    background-color:#1A1A19;
+    font-family:Arial;
+    color:#31511E;
+    font-size:1.25rem;
+}
+a:link{
+    color:#859F3D;
+    text-align:center
+}
+a:hover{
+    color:#859F3D;
+}
+a:visited{
+    color:#859F3D;
+}
+.centerTable{
+    text-align:center;
+}
+.centerImage{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:200px;
+    width:250px;
+}
